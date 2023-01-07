@@ -68,5 +68,35 @@
   background-color: rgba(0, 0, 0, 0.2);
 }
 .section2-container {
-  margin: 20px 400px 100px 400px;
+  margin: 20px 400px 150px 650px;
 }
+
+/* section3-styles */
+.section3-title {
+  text-align: center;
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 80px;
+}
+.plan-container {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 90px;
+}
+.sec3-title {
+  text-align: center;
+  color: #151414;
+  margin-bottom: 10px;
+}
+.sec3-img {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.sec3-desc {
+  text-align: center;
+  color: #737272;
+}
+/* contact-styles */
