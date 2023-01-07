@@ -3,6 +3,7 @@
   padding: 0px;
   font-family: "Open Sans", sans-serif;
   font-family: "Work Sans", sans-serif;
+  /* border: 1px solid black; */
 }
 
 /* banner-styles */
@@ -100,3 +101,32 @@
   color: #737272;
 }
 /* contact-styles */
+.section-4 {
+  margin-bottom: 50px;
+}
+.contact {
+  width: 70%;
+  margin: auto;
+  background-image: url("images/watch.png"), url("images/gradient1.png");
+  /* linear-gradient(rgb(16, 128, 219), rgb(0, 0, 0, 0)); */
+  /* background-blend-mode: multiply; */
+  background-blend-mode: overlay;
+}
+.contact-text {
+  padding: 60px 600px 55px 65px;
+}
+.contact-title {
+  margin-bottom: 25px;
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+}
+.contact-btn {
+  color: #005fac;
+  font-weight: 600;
+  font-size: 20px;
+  /* text-align: center; */
+  border-radius: 5px;
+  border: none;
+  padding: 21px 36px 20px 36px;
+}
